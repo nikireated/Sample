@@ -1,0 +1,7 @@
+1)docker images
+2)docker pull ubuntu (if we want to freshly dwonload any image then,use this)
+3)docker images #check kar images chya repository mdhe hy ka
+4)docker login
+5)docker tag ubuntu:18.04 jaydev123/ubuntu #tag version no. taak ,seeing from image 
+6)docker images(check wtherer iamge is present in respository/name)
+7)docker push jaydev123/ubuntu #Before Pushing we have to login...#now,push the image to respository and check into dockerHub account"s repository for reflection of same image

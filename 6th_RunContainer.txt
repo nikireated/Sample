@@ -1,0 +1,5 @@
+1)docker run hello-world #run the new images in the form of container name which is not there is local image 
+2)docker ps
+3)docker ps -a #to know status that what are  container & list of all container are exited or what?
+4)docker start sweet_gates  #To start the container and put container name from "name" table
+5)docker stop sweet_gates   #To stop the container  

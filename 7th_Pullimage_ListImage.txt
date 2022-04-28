@@ -1,0 +1,9 @@
+1)docker pull jaydev123/ubuntu (pull the image from docker hub respository)
+2)docker images (list out all the images)
+3)docker rmi jaydev123/ubuntu(for deletion of image)
+4)docker images (Again check for deleted image now we would found out that above images is deleted 
+and not present in the docker images list)
+5)docker pull jaydev123/ubuntu (pull the image from docker hub respository again becos previous we deleted)
+6)docker images(now we will get the image name in image list again after pulling the image)
+7)docker run nginx or docker run jaydev123/nginx
+8)docker ps -a (for checking status of Nginx server)
